@@ -1,0 +1,16 @@
+{
+  "name": "testelectron",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron .",
+    "dev": "npx electronmon --trace-warnings ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^26.1.0"
+  }
+}
